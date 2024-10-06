@@ -9,7 +9,7 @@ workshop was designed to get students familiar with R Studio before using r/qtl 
 The workshop also asks students questions regarding Mendel's Laws of Inheritance and introduces
 a chi-squared test to test for the independent assortment of certain traits following crosses.
 
-# File Description
+# File Descriptions
 
 Mendelian_Inheritance_Statistics.R - Central piece of R script referenced in the 
 mendel_R_workshop.pdf that acts as a 'key' with the proper code to complete the analyses 
